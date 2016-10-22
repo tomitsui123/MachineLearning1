@@ -36,3 +36,4 @@ def Key_Stats(gather="Total Debt/Equity (mrq)"):
 	df.to_xml(save)
 
 Key_Stats()
+print("Yea")
