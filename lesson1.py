@@ -6,3 +6,4 @@ from sklearn import svm
 digits = datasets.load_digits()
 print(digits)
 print("hello")
+print("hello1")
